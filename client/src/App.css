@@ -1,0 +1,10 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.App {
+  text-align: center;
+  background-image: url("./bg.jpg");
+  width: 100%;
+  height: auto;
+}
